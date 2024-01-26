@@ -1,0 +1,16 @@
+1/4. wz_basic_sm_row_s_inv1_64
+1/1
+#     9430993.964936798  ::  START wz_basic_sm_row_s_inv1_64
+#     9431664.897537989  ::  END wz_basic_sm_row_s_inv1_64
+2/4. wz_basic_sm_row_s_inv1_128
+1/1
+#     9431718.492589697  ::  START wz_basic_sm_row_s_inv1_128
+#     9432580.441349751  ::  END wz_basic_sm_row_s_inv1_128
+3/4. wz_basic_sm_row_s_inv1_256
+1/1
+#     9432634.027491013  ::  START wz_basic_sm_row_s_inv1_256
+#     9433365.110653109  ::  END wz_basic_sm_row_s_inv1_256
+4/4. wz_basic_sm_row_s_inv1_512
+1/1
+#     9433417.916441869  ::  START wz_basic_sm_row_s_inv1_512
+#     9434273.608398704  ::  END wz_basic_sm_row_s_inv1_512
