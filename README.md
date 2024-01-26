@@ -1,5 +1,5 @@
 # time-energy-compiler-choice-article
-The repository contains experimental data for the article: " Importance of C/C++ compiler choice for performance and energy consumption of multithreaded WZ factorization"
+The repository contains experimental data for the article: "Importance of C/C++ compiler choice for performance and energy consumption of multithreaded WZ factorization"
 ====
 
 Testing was conducted on a system equipped with two Intel® Xeon® Gold 5218R processors, each containing 20 cores. The evaluation encompassed the multithreaded WZ factorization, implemented both without optimization techniques and with strip-mining. The experiments were executed using the DVFS technique across various clock speeds and with different compilers.
