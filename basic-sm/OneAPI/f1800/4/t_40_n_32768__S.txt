@@ -1,0 +1,18 @@
+OMP: Info #277: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+OMP: Info #277: omp_set_nested routine deprecated, please use omp_set_max_active_levels instead.
+1/4. wz_basic_sm_row_s_inv1_64
+1/1
+#      268047.713534270  ::  START wz_basic_sm_row_s_inv1_64
+#      268670.851952947  ::  END wz_basic_sm_row_s_inv1_64
+2/4. wz_basic_sm_row_s_inv1_128
+1/1
+#      268732.216535871  ::  START wz_basic_sm_row_s_inv1_128
+#      269518.074978189  ::  END wz_basic_sm_row_s_inv1_128
+3/4. wz_basic_sm_row_s_inv1_256
+1/1
+#      269582.688920731  ::  START wz_basic_sm_row_s_inv1_256
+#      270336.305700085  ::  END wz_basic_sm_row_s_inv1_256
+4/4. wz_basic_sm_row_s_inv1_512
+1/1
+#      270392.899608314  ::  START wz_basic_sm_row_s_inv1_512
+#      271193.254921149  ::  END wz_basic_sm_row_s_inv1_512
