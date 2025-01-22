@@ -12,6 +12,7 @@ In the directory with a single test there is also a file `t_40_n_32768__T` with 
 In some cases, in the `f***` directories there is a `energy.zip` file containing energy measurements for all 5 repetitions of the same test.
 
 Data for Intel Xeon Platinum 8358 and AMD EPYC 9654 Processors
+
 The results for Intel Xeon Platinum and AMD EPYC processors are stored in directories named `IntelXeonPlatinum` and `AMDEPYC`, respectively. These directories follow the same structure described above for Intel Xeon Gold, providing results for analogous experiments across compilers, clock speeds, and test repetitions.
 
-
+Link to article: https://doi.org/10.24425/bpasts.2025.153226
